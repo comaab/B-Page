@@ -2,7 +2,7 @@ const form = document.getElementById('loginForm');
 const error = document.getElementById('error');
 
 // Set your username and password
-const validUsername = "AAB_Owner@Barahona.com"; // Replace with your desired username
+const validUsername = "AAB_Owner_@Barahona.com"; // Replace with your desired username
 const validPassword = "HTC7998597BN$"; // Replace with your desired password
 
 form.addEventListener('submit', (event) => {
